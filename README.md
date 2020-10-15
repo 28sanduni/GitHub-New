@@ -2,4 +2,4 @@
 
 Hi folks!
 
-This is for the learning purpose
+I'm a Computer Security undergraduate and this repository is for the learning purpose
